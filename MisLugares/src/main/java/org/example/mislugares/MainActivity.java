@@ -31,6 +31,12 @@ public class MainActivity extends ActionBarActivity {
         startActivity(i);
     }
 
+    public void salir(View view){
+
+        finish();
+
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
