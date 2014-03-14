@@ -38,6 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:textSize="@dimen/titulo"
+        android:onClick="lanzarAcercaDe"
         android:text="@string/accion_acerca_de"/>
 
     <Button
