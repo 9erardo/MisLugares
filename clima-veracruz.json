@@ -1,6 +1,6 @@
 {
   "-C1" : {
-    "AN1" : "f",
+    "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
     "AN2" : "f",
     "AN3" : "f",
     "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP062023/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
