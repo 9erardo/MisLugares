@@ -1,7 +1,7 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP092023/GEOCOLOR/GOES18-EP092023-GEOCOLOR-1000x1000.gif",
+    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL082023/GEOCOLOR/GOES16-AL082023-GEOCOLOR-1000x1000.gif",
     "AN3" : "f",
     "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP092023/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
     "CI2" : "https://vortex.plymouth.edu/tropical/EP/2023/09/sat/current.png,f,f,f,f,GOES-East 4 km IR4 ",
@@ -14,8 +14,8 @@
     "DACF" : "16,86,865,556,165,590,1950,1180,64,898,532,1,1,798,598,1,1,798,598,1,64,898,532,1,1,990,900,16,86,866,556",
     "DAI2" : "https://tropic.ssec.wisc.edu/real-time/atlantic/images/xxirg8bbm.jpg",
     "DAI5" : "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png",
-    "DAIF" : "https://www.nhc.noaa.gov/storm_graphics/AT06/refresh/AL062023_wind_probs_34_F120+png/204836.png",
-    "DAO" : "f",
+    "DAIF" : "https://www.nhc.noaa.gov/storm_graphics/AT08/refresh/AL082023_wind_probs_34_F120+png/025324.png",
+    "DAO" : "TORMENTA TROPICAL FRANKLIN_300 KM SUR-SURESTE DE SANTO DOMINGO, REPUBLICA DOMINICANA_85 KM/H_OESTE A 20 KM/H_998 MILABARES",
     "DAT" : "\n\n",
     "DBE" : "f",
     "DBN" : "\n",
