@@ -1,11 +1,11 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL082023/GEOCOLOR/GOES16-AL082023-GEOCOLOR-1000x1000.gif",
+    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL102023/13/GOES16-AL102023-13-1000x1000.gif",
     "AN3" : "f",
-    "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL082023/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
+    "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL102023/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
     "CI2" : "https://vortex.plymouth.edu/tropical/AL/2023/08/sat/current.png,f,f,f,f,GOES-East 4 km IR4 ",
-    "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/08L-2DWIND.GIF,f,f,f,f,Real Time",
+    "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/09L-2DWIND.GIF,f,f,f,f,Real Time",
     "CTM" : "ffffff",
     "CTT" : "HURACAN FRANKLIN",
     "CTX" : "\n",
