@@ -1,11 +1,11 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP182023/13/GOES16-EP182023-13-1000x1000.gif",
+    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP182023/EXTENT3/GOES16-EP182023-EXTENT3-1000x1000.gif",
     "AN3" : "f",
     "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP182023/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
-    "CI2" : "https://vortex.plymouth.edu/tropical/EP/2023/17/sat/current.png,f,f,f,f,GOES-East 4 km IR4 ",
-    "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/17E-2DWIND.GIF,f,f,f,f,Real Time",
+    "CI2" : "https://vortex.plymouth.edu/tropical/EP/2023/18/sat/current.png,f,f,f,f,GOES-East 4 km IR4 ",
+    "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/18E-2DWIND.GIF,f,f,f,f,Real Time",
     "CTM" : "ffffff",
     "CTT" : "DEPRESION TROPICAL 18-E",
     "CTX" : "\n",
