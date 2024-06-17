@@ -4,7 +4,7 @@
     "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL012024/13/AL012024-13-1000x1000.gif",
     "AN3" : "f",
     "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL012024/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
-    "CI2" : "https://vortex.plymouth.edu/tropical/EP/2023/19/sat/current.png,f,f,f,f,GOES-East 4 km IR4",
+    "CI2" : "https://vortex.plymouth.edu/tropical/AL/2024/01/sat/irg_current.png,f,f,f,f,GOES-East 4 km IR4",
     "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/19E-2DWIND.GIF,f,f,f,f,Real Time",
     "CTM" : "ffffff",
     "CTT" : "CICLON TROPICAL UNO",
