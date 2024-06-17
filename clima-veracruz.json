@@ -1,13 +1,13 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "f",
+    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL012024/13/AL012024-13-1000x1000.gif",
     "AN3" : "f",
-    "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP192023/EXTENT3/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
+    "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL012024/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
     "CI2" : "https://vortex.plymouth.edu/tropical/EP/2023/19/sat/current.png,f,f,f,f,GOES-East 4 km IR4",
     "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/19E-2DWIND.GIF,f,f,f,f,Real Time",
     "CTM" : "ffffff",
-    "CTT" : "TORMENTA TROPICAL PILAR",
+    "CTT" : "CICLON TROPICAL UNO",
     "CTX" : "\n",
     "DAC2" : "1,1,1078,650,20,50,1400,900,600,400,1300,800",
     "DAC5" : "5,267,422,253,1,65,898,530,150,540,1990,1230,1,50,1910,950,1,64,898,532,1,240,450,290",
