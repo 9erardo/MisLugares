@@ -1,7 +1,7 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL012024/13/AL012024-13-1000x1000.gif",
+    "AN2" : "f",
     "AN3" : "f",
     "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL012024/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
     "CI2" : "https://vortex.plymouth.edu/tropical/AL/2024/01/sat/irg_current.png,f,f,f,f,GOES-East 4 km IR4",
