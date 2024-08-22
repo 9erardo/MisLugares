@@ -1,11 +1,11 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL052024/GEOCOLOR/AL052024-GEOCOLOR-1000x1000.gif",
+    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP072024/GEOCOLOR/EP072024-GEOCOLOR-1000x1000.gif",
     "AN3" : "f",
-    "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/AL052024/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
-    "CI2" : "https://vortex.plymouth.edu/tropical/AL/2024/05/sat/current.png,f,f,f,f,GOES-East 4 km IR4",
-    "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/05L-2DWIND.GIF,f,f,f,f,Real Time",
+    "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP072024/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
+    "CI2" : "https://vortex.plymouth.edu/tropical/EP/2024/07/sat/current.png,f,f,f,f,GOES-East 4 km IR4",
+    "CI3" : "https://tropic.ssec.wisc.edu/real-time/adt/07E-2DWIND.GIF,f,f,f,f,Real Time",
     "CTM" : "ffffff",
     "CTT" : "HURACAN GILMA",
     "CTX" : "\n",
