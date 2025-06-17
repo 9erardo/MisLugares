@@ -1,7 +1,7 @@
 {
   "-C1" : {
     "AN1" : "https://cdn.star.nesdis.noaa.gov//GOES16/GLM/SECTOR/mex/EXTENT3/GOES16-MEX-EXTENT3-1000x1000.gif",
-    "AN2" : "f",
+    "AN2" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP052025/GEOCOLOR/EP052025-GEOCOLOR-1000x1000.gif",
     "AN3" : "f",
     "CI1" : "https://cdn.star.nesdis.noaa.gov/FLOATER/EP052025/GEOCOLOR/1000x1000.jpg,f,f,f,f,GOES-East VISIBLE",
     "CI2" : "https://vortex.plymouth.edu/tropical/EP/2025/05/sat/current.png,f,f,f,f,GOES-East 4 km IR4",
@@ -21,7 +21,7 @@
     "DBN" : "\n",
     "DPC2" : "1,1,1078,650,1,1,860,455",
     "DPC5" : "1,65,898,530,1600,840,1625,970,1,64,898,532",
-    "DPCF" : "16,86,865,556,1,1,798,598,1,1,996,920,15,144,731,498",
+    "DPCF" : "12,12,874,560,16,86,865,556,1,1,798,598,1,1,996,920,15,144,731,498",
     "DPI2" : "https://tropic.ssec.wisc.edu/real-time/eastpac/images/xxirg9bbm.jpg",
     "DPI5" : "https://www.nhc.noaa.gov/xgtwo/two_pac_7d0.png",
     "DPIF" : "https://www.nhc.noaa.gov/storm_graphics/EP05/refresh/EP052025_5day_expCone+png/171445_5day_expCone.png",
